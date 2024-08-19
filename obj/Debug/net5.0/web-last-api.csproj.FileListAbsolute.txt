@@ -27,3 +27,4 @@ C:\Users\DTAHOZDOGAN\source\repos\son-api\web-last-api\web-last-api\obj\Debug\ne
 C:\Users\DTAHOZDOGAN\source\repos\son-api\web-last-api\web-last-api\obj\Debug\net5.0\ref\web-last-api.dll
 C:\Users\DTAHOZDOGAN\source\repos\son-api\web-last-api\web-last-api\obj\Debug\net5.0\web-last-api.pdb
 C:\Users\DTAHOZDOGAN\source\repos\son-api\web-last-api\web-last-api\obj\Debug\net5.0\web-last-api.genruntimeconfig.cache
+C:\Users\DTAHOZDOGAN\source\repos\son-api\web-last-api\web-last-api\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3wKtg6dnRdISxZEBGNW7WkETxzRS/bDFmi0gdbptge10JArIQGBOLl8bUkc3XlDFHKGEPr8SF97iNEF+QT2hpw==",
+  "dgSpecHash": "IIl79ajlNrM5lGUYROpmqeGqLd88X/Qw/+whTxYxCq+HXdd4IauNa01/NAEyQBkUZjCG8idJXkrhGprQwQq2BA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DTAHOZDOGAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\DTAHOZDOGAN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DTAHOZDOGAN\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\DTAHOZDOGAN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\DTAHOZDOGAN\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\DTAHOZDOGAN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\DTAHOZDOGAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
