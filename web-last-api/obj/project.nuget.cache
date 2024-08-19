@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IIl79ajlNrM5lGUYROpmqeGqLd88X/Qw/+whTxYxCq+HXdd4IauNa01/NAEyQBkUZjCG8idJXkrhGprQwQq2BA==",
+  "dgSpecHash": "KjPe0Uqh+wEq+ZiJmr5QpswVZ+Q8KpbwP2Xhz3pYj2aaLxavc7aU7j/M3bEcp1pzk2Zw43Bh8PhPL/zX/VhIRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api.csproj",
+  "projectFilePath": "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api\\web-last-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DTAHOZDOGAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\DTAHOZDOGAN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

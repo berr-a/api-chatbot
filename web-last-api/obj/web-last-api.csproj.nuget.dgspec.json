@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api.csproj": {}
+    "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api\\web-last-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api.csproj": {
+    "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api\\web-last-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api.csproj",
+        "projectUniqueName": "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api\\web-last-api.csproj",
         "projectName": "web-last-api",
-        "projectPath": "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api.csproj",
+        "projectPath": "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api\\web-last-api.csproj",
         "packagesPath": "C:\\Users\\DTAHOZDOGAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\obj\\",
+        "outputPath": "C:\\Users\\DTAHOZDOGAN\\source\\repos\\son-api\\web-last-api\\web-last-api\\web-last-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DTAHOZDOGAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
